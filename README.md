@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ann-sys
-- 👀 I’m interested in analysing data
-- 🌱 I’m currently learning MSBI
-- 💞️ I’m looking to collaborate on data anlysis
+- 👀 I’m interested in data analysis
+- 🌱 I’ve done MSBI
+-  I've done Microsoft Fabric
+- 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me anngloba@gmail.com
 
 <!---
